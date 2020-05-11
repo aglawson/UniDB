@@ -24,7 +24,7 @@ CWID: <input type="text" name="CWID">
 </html>
 
 <?php
-     $link = mysql_connect('ecsmysql', 'username', 'password');
+     $link = mysql_connect('ecsmysql', 'cs332t**', '*password*');
 
      if(!$link){
        die('Could not connect: ' . mysql_error());
@@ -32,7 +32,7 @@ CWID: <input type="text" name="CWID">
 
      echo 'Connected successfully!<p>';
 
-     mysql_select_db("username",$link);
+     mysql_select_db("cs332t**",$link);
 
      $course_num = $_POST["COURSENUM"];
      $cwid = $_POST["CWID"];
