@@ -1,0 +1,62 @@
+INSERT INTO Student VALUES (000000000,
+"Adrian",
+"Lawson",
+"9493109922",
+"1924 Coronavirus St.",
+1);
+
+INSERT INTO Student VALUES (000000001,
+"Kevin",
+"Nguyen",
+"9493135621",
+"1422 Cardi B St.",
+2);
+
+INSERT INTO Student VALUES (000000002,
+"Kimberly",
+"Luu",
+"9097649161",
+"1924 Coronavirus St.",
+1);
+
+INSERT INTO Student VALUES (000000003,
+"Kendrick",
+"Lamar",
+"3333333333",
+"1962 Compton St.",
+2);
+
+INSERT INTO Student VALUES (000000004,
+"K",
+"B",
+"7777777777",
+"1962 Florida St.",
+1);
+
+INSERT INTO Student VALUES (000000005,
+"H.",
+"G.A.",
+"7149621000",
+"1962 Earth St.",
+2);
+
+INSERT INTO Student VALUES (000000006,
+"Joe",
+"Rogan",
+"1234567890",
+"1962 Bruh St.",
+1);
+
+INSERT INTO Student VALUES (000000007,
+"Conald",
+"Peterson",
+"2345678910",
+"1962 Proto St.",
+2);
+
+INSERT INTO Student VALUES (000000008,
+"PewDie",
+"Pie",
+"0000000000",
+"1962 Floor St.",
+1);

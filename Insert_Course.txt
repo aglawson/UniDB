@@ -1,0 +1,41 @@
+INSERT INTO Course VALUES ("CPSC 301",
+"Fundamentals of Programming",
+"EPP",
+3,
+1);
+
+INSERT INTO Course VALUES ("CPSC 332",
+"File Structure and Database",
+"Database",
+3,
+1);
+
+INSERT INTO Course VALUES ("MATH 338",
+"Statistics",
+"Statistics",
+5,
+2);
+
+INSERT INTO Course VALUES ("MATH 270B",
+"Introduction to Linear Algebra",
+"Linear Algebra",
+5,
+2);
+
+INSERT INTO Course VALUES ("CPSC 362",
+"Fundamentals of Software Engineering",
+"Software Engineering",
+3,
+1);
+
+INSERT INTO Course VALUES ("CPSC 351",
+"Operating Systems",
+"Operating Systems",
+3,
+1);
+
+INSERT INTO Course VALUES ("CPSC 315",
+"Professional Ethics in Computing",
+"Ethical Computing",
+3,
+1);

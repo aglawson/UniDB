@@ -1,0 +1,11 @@
+INSERT INTO Department VALUES (1,
+"Computer Science",
+"5629477435",
+"1776 Software St.",
+"000-00-0002");
+
+INSERT INTO Department VALUES (2,
+"Mathematics",
+"9099477435",
+"1994 Math St.",
+"000-00-0001");

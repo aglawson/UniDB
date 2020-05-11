@@ -1,0 +1,89 @@
+INSERT INTO Section VALUES (1,
+"CPSC 301",
+"CPSC 300",
+"MWF",
+30,
+"11:00 am",
+"12:00 pm",
+"000-00-0002");
+
+INSERT INTO Section VALUES (1,
+"CPSC 332",
+"CPSC 301",
+"MWF",
+30,
+"8:00 am",
+"9:00 am",
+"000-00-0001");
+
+INSERT INTO Section VALUES (1,
+"MATH 338",
+"MATH 101",
+"MWF",
+30,
+"9:00 am",
+"11:00 am",
+"000-00-0003");
+
+INSERT INTO Section VALUES (1,
+"MATH 270B",
+"MATH 270A",
+"MWF",
+30,
+"3:00 pm",
+"5:00 pm",
+"000-00-0003");
+
+INSERT INTO Section VALUES (1,
+"CPSC 362",
+"CPSC 110A",
+"MTWF",
+30,
+"1:00 pm",
+"2:00 pm",
+"000-00-0001");
+
+INSERT INTO Section VALUES (1,
+"CPSC 335",
+"CPSC 301",
+"MTWF",
+30,
+"2:30 pm",
+"5:30 pm",
+"000-00-0002");
+
+INSERT INTO Section VALUES (1,
+"CPSC 335",
+"CPSC 301",
+"MTWF",
+30,
+"2:30 pm",
+"5:30 pm",
+"000-00-0002");
+
+INSERT INTO Section VALUES (1,
+"CPSC 315",
+"CS 100",
+"F",
+30,
+"2:30 pm",
+"5:30 pm",
+"000-00-0003");
+
+INSERT INTO Section VALUES (1,
+"CPSC 351",
+"CS 110A",
+"MW",
+30,
+"2:30 pm",
+"5:30 pm",
+"000-00-0001");
+
+INSERT INTO Section VALUES (1,
+"CPSC 362",
+"CS 110B",
+"MW",
+30,
+"2:30 pm",
+"5:30 pm",
+"000-00-0003");

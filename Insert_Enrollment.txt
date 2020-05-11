@@ -1,0 +1,165 @@
+INSERT INTO Enrollment_Record VALUES (1,
+"CPSC 332",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (0,
+"MATH 270B",
+1,
+'A-');
+
+INSERT INTO Enrollment_Record VALUES (3,
+"MATH 338",
+1,
+'D');
+
+INSERT INTO Enrollment_Record VALUES (4,
+"CPSC 301",
+1,
+'F');
+
+INSERT INTO Enrollment_Record VALUES (5,
+"CPSC 332",
+1,
+'C+');
+
+INSERT INTO Enrollment_Record VALUES (6,
+"MATH 338",
+1,
+'B+');
+
+INSERT INTO Enrollment_Record VALUES (7,
+"MATH 270B",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (8,
+"CPSC 301",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (1,
+"CPSC 301",
+1,
+'A-');
+
+INSERT INTO Enrollment_Record VALUES (2,
+"MATH 338",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (3,
+"MATH 270B",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (1,
+"MATH 338",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (0,
+"MATH 270B",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (2,
+"CPSC 332",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (2,
+"CPSC 301",
+1,
+'B');
+
+INSERT INTO Enrollment_Record VALUES (3,
+"CPSC 301",
+1,
+'B-');
+
+INSERT INTO Enrollment_Record VALUES (3,
+"CPSC 332",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (4,
+"CPSC 332",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (4,
+"MATH 338",
+1,
+'B-');
+
+INSERT INTO Enrollment_Record VALUES (4,
+"MATH 270B",
+1,
+'B');
+
+INSERT INTO Enrollment_Record VALUES (5,
+"CPSC 301",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (5,
+"MATH 338",
+1,
+'B');
+
+INSERT INTO Enrollment_Record VALUES (5,
+"MATH 270B",
+1,
+'B+');
+
+INSERT INTO Enrollment_Record VALUES (6,
+"MATH 270B",
+1,
+'A');
+
+INSERT INTO Enrollment_Record VALUES (6,
+"CPSC 301",
+1,
+'A-');
+
+INSERT INTO Enrollment_Record VALUES (6,
+"CPSC 332",
+1,
+'A-');
+
+INSERT INTO Enrollment_Record VALUES (0, "CPSC 335", 1, 'B-');
+
+
+INSERT INTO Enrollment_Record VALUES (0, "CPSC 335", 1, 'B-');
+
+INSERT INTO Enrollment_Record VALUES (0,
+"CPSC 351",
+1,
+'C+');
+
+INSERT INTO Enrollment_Record VALUES (0,
+"CPSC 315",
+1,
+'A');
+
+
+INSERT INTO Enrollment_Record VALUES (1,
+"CPSC 351",
+1,
+'B+');
+
+INSERT INTO Enrollment_Record VALUES (1,
+"CPSC 315",
+1,
+'A-');
+
+INSERT INTO Enrollment_Record VALUES (2,
+"CPSC 351",
+1,
+'C-');
+
+INSERT INTO Enrollment_Record VALUES (2,
+"CPSC 315",
+1,
+'C+');

@@ -1,0 +1,8 @@
+INSERT INTO College_Degrees VALUES ("000-00-0001",
+"Bachelor's in Architecture");
+
+INSERT INTO College_Degrees VALUES ("000-00-0002",
+"Master's degree in Software Engineering");
+
+INSERT INTO College_Degrees VALUES ("000-00-0003",
+"Bachelor's degree in Economics");
